@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! Papers and code related to NSF CAREER 1942700 on Networked Multi-User Augmented Reality for Mobile Devices is provided below.
+
+<p>Kittipat Apicharttrisorn, Jiasi Chen, Vyas Sekar, Anthony Rowe, Srikanth Krishnamurthy, &#8220;Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality&#8221;,&nbsp;<em>ACM SenSys</em>, 2022. [<a href="https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf">pdf</a>][<a href="https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22-slides.pdf">slides</a>][<a href="https://sites.google.com/view/infra-free-ar/home">code</a>]</p>
 
 <!--
 **multi-user-ar/multi-user-ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
