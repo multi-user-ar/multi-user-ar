@@ -6,7 +6,7 @@ Last updated: Feb. 16, 2024. Please also visit Jiasi's <A HREF="http://jiasi.eng
 
 - Kittipat Apicharttrisorn, Jiasi Chen, Vyas Sekar, Anthony Rowe, Srikanth Krishnamurthy, &#8220;Breaking edge shackles: Infrastructure-free collaborative mobile augmented reality&#8221;,&nbsp;<em>ACM SenSys</em>, 2022. [<a href="https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22.pdf">pdf</a>][<a href="https://www.cs.ucr.edu/~jiasi/pub/freeAR-sensys22-slides.pdf">slides</a>][<a href="https://sites.google.com/view/infra-free-ar/home">code</a>]
 
-- Aditya Dhakal, Xukan Ran, Yunshu Wang, Jiasi Chen, K.K. Ramakrishnan, &#8220;SLAM-Share: Visual Simultaneous Localization and Mapping for Real-time Multi-user Augmented Reality&#8221;, <em>ACM CoNEXT</em>, 2022. [<a href="https://www.cs.ucr.edu/~jiasi/pub/SLAMShare-conext22.pdf">pdf</a>][<a href="https://jiasi.engin.umich.edu/wp-content/uploads/sites/81/2023/03/SLAMshare-conext22-slides.pdf">slides</a>][<a href="https://github.com/network-lab2/slam-share">code</a>
+- Aditya Dhakal, Xukan Ran, Yunshu Wang, Jiasi Chen, K.K. Ramakrishnan, &#8220;SLAM-Share: Visual Simultaneous Localization and Mapping for Real-time Multi-user Augmented Reality&#8221;, <em>ACM CoNEXT</em>, 2022. [<a href="https://www.cs.ucr.edu/~jiasi/pub/SLAMShare-conext22.pdf">pdf</a>][<a href="https://jiasi.engin.umich.edu/wp-content/uploads/sites/81/2023/03/SLAMshare-conext22-slides.pdf">slides</a>][<a href="https://github.com/network-lab2/slam-share">code</a>]
 
 - Carter Slocum,&nbsp;Jingwen Huang, Jiasi Chen, “VIA: Visibility-aware Web-based Virtual Reality”,&nbsp;<em>ACM Web3D</em>, 2021. [<a href="https://www.cs.ucr.edu/~jiasi/pub/via_webxr21.pdf">pdf</a>][<a href="https://www.cs.ucr.edu/~jiasi/pub/via_webxr21_slides.pdf">slides</a>]
 
