@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome!
 
 ### Papers, slides, and code related to NSF CAREER 1942700 on "Networked Multi-User Augmented Reality for Mobile Devices" (PI: Jiasi Chen, University of Michigan) is provided below.
 
